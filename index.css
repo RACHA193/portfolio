@@ -24,10 +24,6 @@ h1 {
     margin-top: 5rem;
     border-bottom: solid #fff 1px;
 
-h1#recent-training {
-  color: #1a1a1a !important;
-}
-
 }
 h2, h3, h4, h5, h6 {
     color: #fcf9de;
@@ -181,4 +177,8 @@ padding: 1.5rem;
     padding: 2rem 2rem;
     }
 
+}
+
+#recent-training {
+  color: #000000 !important;
 }
